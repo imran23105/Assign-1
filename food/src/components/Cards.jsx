@@ -1,5 +1,6 @@
 import React from 'react'
 
+
 const Cards = ({food2}) => {
   return (
     <div className='p-5'>
